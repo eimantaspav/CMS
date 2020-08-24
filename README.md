@@ -22,6 +22,7 @@ Open your browser and enter the following page "http://localhost/CMS/" (without 
 Please enter the "Admin Panel" and login using:
 username: admin
 password: password
+
 To make sure that you are currently viewing the latest version of the project, please press Ctrl+f5 to clear the browser cache.
 
 FEATURES:
