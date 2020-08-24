@@ -1,4 +1,5 @@
 INSTRUCTIONS:
+
 Open visual studio and run a new terminal.
 
 Use the cd command in the terminal to change the working directory to your "Ampps" "www" folder. (Example: cd "C:\Program Files\Ampps\www" (it is usually the default installation path, but please change it accordingly).
@@ -12,7 +13,9 @@ DATABASE IMPORT
 Open Mysql Workbench software and create a new connection with the following information:
 
 Connection name: cms
+
 Hostname: 127.0.0.1 
+
 Username: root
 
 Now please connect with the password "mysql". Once connected, select "Server" -> "Data Import". 
