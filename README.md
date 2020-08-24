@@ -1,4 +1,4 @@
-INSTRUCTIONS:
+#INSTRUCTIONS:
 
 Open visual studio and run a new terminal.
 
@@ -8,7 +8,7 @@ If you have cloned the project before, please delete the "CMS" folder in the "ww
 
 After making sure that you are in the "www" folder, clone the project with the following command: git clone https://github.com/eimantaspav/CMS.git
 
-DATABASE IMPORT
+#DATABASE IMPORT
 
 Open Mysql Workbench software and create a new connection with the following information:
 
@@ -33,7 +33,7 @@ password: password
 
 To make sure that you are currently viewing the latest version of the project, please press Ctrl+f5 to clear the browser cache.
 
-FEATURES:
+#FEATURES:
 
 1. Session authentication.
 2. Create new articles.
